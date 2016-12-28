@@ -1,4 +1,6 @@
-hello
-hi
-hi there
-good day
+
+hello;
+hi;
+hi there;
+good day;
+
